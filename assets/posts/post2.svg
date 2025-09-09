@@ -1,0 +1,8 @@
+<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="200" cy="100" r="80" fill="none" stroke="#000" stroke-width="2" />
+    <path d="M200 100 L200 20 A80 80 0 0 1 280 100 Z" fill="#4CAF50" />
+    <path d="M200 100 L280 100 A80 80 0 0 1 200 180 Z" fill="#2196F3" />
+    <path d="M200 100 L200 180 A80 80 0 0 1 120 100 Z" fill="#FF9800" />
+    <text x="200" y="190" font-family="Arial" font-size="16" fill="black" text-anchor="middle">Market
+        Share</text>
+</svg>
