@@ -13,13 +13,13 @@ here are some screenshots, if you dont want to check it out yourself at
 
 <table align="center">
   <tr>
-    <td align="center"><img width="1263" height="926" alt="image" src="https://github.com/user-attachments/assets/088aa1f0-4409-447b-8ca9-fd228770f664.png" /></td>
+    <td align="center"><img width="1263" height="926" alt="image" src="https://github.com/user-attachments/assets/088aa1f0-4409-447b-8ca9-fd228770f664" /></td>
   </tr>
   <tr>
-    <td align="center"><img width="1264" height="924" alt="image" src="https://github.com/user-attachments/assets/c94bc2a4-77a5-4c01-ae52-f413cd51002b.png" /></td>
+    <td align="center"><img width="1264" height="924" alt="image" src="https://github.com/user-attachments/assets/c94bc2a4-77a5-4c01-ae52-f413cd51002b" /></td>
   </tr>
   <tr>
-    <td align="center"><img width="1256" height="927" alt="image" src="https://github.com/user-attachments/assets/5aac035a-2c93-43c6-b4ec-10cf89562564.png" /></td>
+    <td align="center"><img width="1256" height="927" alt="image" src="https://github.com/user-attachments/assets/5aac035a-2c93-43c6-b4ec-10cf89562564" /></td>
   </tr>
 </table>
 
