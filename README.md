@@ -9,7 +9,7 @@ so i made one and published it. not much more to it really;
 the post and its seed are regenerated whenever the page is reloaded, or the generate button is clicked. new absurd linkedin brag post for you
 (that makes absolutely no sense for the cherry on top).
 
-here are some screenshots, if you dont want to check it out yourself at 
+here are some screenshots, if you dont want to check it out yourself at [hritsh.github.io/nonsense](hritsh.github.io/nonsense)
 
 <table align="center">
   <tr>
