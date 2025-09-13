@@ -1,13 +1,12 @@
-
 # <img src="./assets/linkedin.ico" width="32" height="32" alt="clanker icon" /> nonsense
 
 ## what is this?
 
-honestly, i have no idea myself. i was bored one day and thought it would be funny if i made a completely random nonsensical linkedin post generator.
-so i made one and published it. not much more to it really;
+honestly, i have no idea myself. i was bored one night doomscrolling linkedin and coming across these absurd posts and thought it would be funny if i made a completely random nonsensical linkedin post generator, inspired by david barrow's (https://www.davidbarrow.com/psjg/)[pseudo scientific jargon generator]
 
-the post and its seed are regenerated whenever the page is reloaded, or the generate button is clicked. new absurd linkedin brag post for you
-(that makes absolutely no sense for the cherry on top).
+so i hacked one up and published it. not much more to it really;
+
+the post and its seed are regenerated whenever the page is reloaded, or the generate button is clicked. new absurd linkedin brag post for you (that makes absolutely no sense).
 
 here are some screenshots, if you dont want to check it out yourself at [hritsh.github.io/nonsense](hritsh.github.io/nonsense)
 
@@ -22,6 +21,3 @@ here are some screenshots, if you dont want to check it out yourself at [hritsh.
     <td align="center"><img width="1256" height="927" alt="image" src="https://github.com/user-attachments/assets/5aac035a-2c93-43c6-b4ec-10cf89562564" /></td>
   </tr>
 </table>
-
-
-
